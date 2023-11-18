@@ -47,7 +47,7 @@ function Footer() {
                         <Col sm={6} lg={3} className="mb-4 mb-lg-0">
                             <div className="text-center">
                                 <h5>Order Now</h5>
-                                <p>Quaerat neque purus ipsum</p>
+                                <p>Call us and book your order now.</p>
                                 <p>
                                     <Link to="tel:9565018501" className="calling">
                                         956-501-8501
@@ -90,7 +90,7 @@ function Footer() {
                                 <ul className="list-unstyled text-center mb-0">
                                     <li>
                                         <Link to="/">
-                                            © 2023 <span>RRAM</span>. All Rights Reserved
+                                            © 2023 <span>RRAM Food Delivery Website</span>. All Rights Reserved
                                         </Link>
                                     </li>
                                     <li>
